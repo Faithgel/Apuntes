@@ -1,0 +1,2 @@
+# Conceptos de Bases de datos
+Las bases de datos son el método preferido para el almacenamiento estructurado de datos: ya sea que estés navegando a través de fotos y/o publicaciones de Facebook de alguno de tus amigoso compartiendo imágenes en Pinterest o "twitteando" acerca de cuánto amas tu unicorn frappuccino en Twitter, estás continuamente viendo, manipulando y creando datos.

@@ -1,0 +1,119 @@
+{
+  "main": {
+    "id": "1a71e76113977e2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "93e8eefd4ed79686",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a25cbc2d2f7695b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estructura de datos compactas/Paper/Paper.md",
+                "mode": "preview"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "925d1626f0b16b95",
+    "type": "split",
+    "children": [
+      {
+        "id": "c31b2743f14a8cc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "993a0e2d86643a30",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "131a7f23456e84a9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "6945e10a2a8692ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "25ee0c1e8593c400",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23201fab9d9644eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Estructura de datos compactas/Paper/Paper.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5a490ec10c39c158",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "active": "993a0e2d86643a30",
+  "lastOpenFiles": [
+    "Sistemas operativos/Sistemas Operativos.md",
+    "Sistemas operativos/Administracion de procesos/Administracion de Procesos.md",
+    "Sistemas operativos/Administracion de procesos/Nano System.md",
+    "Sistemas operativos/Introduccion a los Sistemas Operativos/Introduccion a los sistemas operativos.md",
+    "Sistemas operativos/Introduccion a los Sistemas Operativos/Ansi C/Ansi C Language.md",
+    "Sistemas operativos/Administracion de procesos/Introduccion a Procesos.md",
+    "Sistemas operativos/Administracion de procesos/Llamadas a sistema.md",
+    "A.md",
+    "Estructura de datos compactas/Paper/Paper.md",
+    "Estructura de datos compactas/PDF's/Gonzalo Navarro - Compact Data Structures. A Practical Approach-Cambridge (2016).pdf"
+  ]
+}

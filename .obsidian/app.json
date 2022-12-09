@@ -1,0 +1,18 @@
+{
+  "promptDelete": false,
+  "livePreview": false,
+  "attachmentFolderPath": "IMG",
+  "defaultViewMode": "preview",
+  "showInlineTitle": true,
+  "useTab": true,
+  "smartIndentList": true,
+  "legacyEditor": true,
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
